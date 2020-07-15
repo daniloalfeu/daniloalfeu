@@ -19,3 +19,13 @@ Atualmente estou trabalhando em Desenvolvimento avançado em Java Script ES6
 - 💬 Pergunte-me sobre: Tecnologia 
 - 📫 Como chegar até mim: Vem de Github e linkedIn
 - ⚡ Curiosidade: Eu amo tecnologia.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Develops JavaScript ES6.
+- 🌱 I’m currently learning JavaScript ES6.
+- 👯 I’m looking to collaborate in JavaScript
+- 📫 How to reach me: https://github.com/daniloalfeu
+E https://www.linkedin.com/in/danilo-alfeu-010b26b8
+I ♥️ ⌨💻 tech.
+-->
